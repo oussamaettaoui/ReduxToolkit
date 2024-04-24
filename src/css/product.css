@@ -1,0 +1,72 @@
+.p{
+    height:500px ;
+    display: flex;
+    border-radius: 7px;
+    margin: 20px;
+    background-color: white;
+  box-shadow: 0px 5px 25px black;
+
+}
+.promo1{
+    position: relative;
+    bottom: 128px;
+    left:100px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    width: fit-content;
+
+}
+.img2{
+    width:400px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title{
+    position: relative;
+    bottom: 130px;
+    font-size: x-large;
+}
+.price{
+    position: relative;
+    font-size: large;
+    bottom: 120px;
+}
+.old1{
+    text-decoration: line-through;
+    position:relative;
+    bottom: 110px;
+}
+.qnt{
+    display: flex;
+    position: relative;
+    bottom: 90px;
+    
+}
+.btn1{
+    margin-bottom: 30px;
+    border: 2px solid rgb(212, 141, 10);
+}
+.qntv{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 15px;
+
+}
+.rate{
+    position: relative;
+    bottom: 110px;
+    display: flex;
+}
+.btn2{
+    width: 300px;
+    border: 2px solid blue;
+    position: relative;
+    bottom:80px;
+}
+
+

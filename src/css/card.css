@@ -1,0 +1,31 @@
+
+table{
+    width: 100%;
+
+}
+table,th,td{
+    border:0px solid black;
+    text-align: center;
+    
+}
+
+.total{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.qc{
+    gap: 1rem;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.ic{
+    width: 100px;
+    height: 100px;
+    border-radius: 7px;
+}
+.card-r{
+    display: grid;
+    grid-template-columns: repeat(5 ,1fr);
+}
